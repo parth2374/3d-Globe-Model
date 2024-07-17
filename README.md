@@ -1,1 +1,1 @@
-# 3d-Globe-Model
+# getting-started-with-threejs
